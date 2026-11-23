@@ -1,0 +1,25 @@
+{
+  "name": "去AI味·全域增强版",
+  "installedAt": 1795355502721,
+  "source": "local",
+  "agent_created": true,
+  "version": "1.0.0",
+  "skillId": "skill_deai_omni_20261122",
+  "pay_mode": 0,
+  "displayName": "去AI味·全域增强版",
+  "description_zh": "全网最新 AI 写作特征 + 中文四场景规则 + 多模型偏好词补丁的三合一去 AI 味技能，日常写作去机械化的默认首选。触发词：去AI味、说人话、自然点、别像AI写的、改得有人味。检测器对抗用 deai-promax，英文维基 24 条速查用 humanizer。",
+  "description_en": "An all-in-one de-AI-writing skill combining the latest AI writing tells, Chinese four-scenario rules, and per-model vocabulary fingerprints. Default choice for everyday writing humanization. For detector evasion use deai-promax; for the Wikipedia 24-rule quick check use humanizer.",
+  "description": "全网最新 AI 写作特征 + 中文四场景规则 + 多模型偏好词补丁的三合一去 AI 味技能，日常写作去机械化的默认首选。",
+  "examples_zh": [
+    "把这段话改得更像人写的",
+    "去掉这段文字的AI味，说人话",
+    "这篇公众号文章读起来太机械了，帮我润色得自然点",
+    "帮我检查这段网文有没有AI腔"
+  ],
+  "examples_en": [
+    "Rewrite this paragraph to sound more human",
+    "Remove the AI tone and make it conversational",
+    "Polish this article so it reads naturally"
+  ],
+  "iconSource": "letter:auto"
+}
